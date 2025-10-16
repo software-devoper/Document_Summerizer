@@ -25,3 +25,5 @@ python-dotenv
 
 #Machine Learning Utilities
 scikit-learn
+langchain-community
+
