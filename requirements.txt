@@ -26,4 +26,5 @@ python-dotenv
 #Machine Learning Utilities
 scikit-learn
 langchain-community
+PyPDF2>=3.0.0
 
