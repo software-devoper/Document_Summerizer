@@ -28,5 +28,7 @@ scikit-learn
 langchain-community
 PyPDF2>=3.0.0
 pypdf
+langchain>=0.1.0
+
 
 
