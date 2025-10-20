@@ -3,7 +3,8 @@ pandas
 python-dotenv
 langchain
 langchain-google-genai
-langchain-community==0.2.12
+langchain-community
 pypdf
 tiktoken
+
 
