@@ -6,5 +6,5 @@ langchain-google-genai
 langchain-community
 pypdf
 tiktoken
-
+faiss-cpu
 
