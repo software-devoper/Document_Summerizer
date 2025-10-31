@@ -244,7 +244,6 @@ def main():
             border-radius: 10px;
             padding: 10px;
             margin-bottom: 12px;
-            color: #fff;
             word-wrap: break-word;
         }
 
@@ -494,5 +493,6 @@ def main():
                                              
 if __name__ == '__main__':
     main()
+
 
 
