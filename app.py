@@ -446,7 +446,7 @@ def main():
                 st.info("💡 No questions asked yet. Your conversation will appear here.")
             else:
                 # Append all messages (stay inside chat box)
-                for chat in st.session_state.Chat_history:
+                for chat in reversed(st.session_state.Chat_history):
                     st.markdown(f"""
                         <div class="chat-message user-message">
                             <strong>❓ Your Question:</strong><br>{chat['question']}
@@ -493,6 +493,7 @@ def main():
                                              
 if __name__ == '__main__':
     main()
+
 
 
 
