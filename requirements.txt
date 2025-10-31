@@ -2,10 +2,10 @@ streamlit
 pandas
 python-dotenv
 langchain
-langchain-google-genai
+langchain-core
 langchain-community
+langchain-google-genai
+langchain-huggingface
 pypdf
 tiktoken
 faiss-cpu
-langchain-huggingface
-
