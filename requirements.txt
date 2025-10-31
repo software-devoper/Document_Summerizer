@@ -7,4 +7,5 @@ langchain-community
 pypdf
 tiktoken
 faiss-cpu
+langchain-huggingface
 
